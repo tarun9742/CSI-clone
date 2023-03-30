@@ -1,0 +1,76 @@
+.navbar {
+    background-color: black;
+}
+.navbar img {
+    width: 250px;
+}
+.main1{
+    background: url(https://media.istockphoto.com/id/1071467916/photo/group-of-young-students-working-on-an-assignment.jpg?b=1&s=170667a&w=0&k=20&c=T6G9eMmSFp1rzwzGo-p_no40Yj70CPCq70RAtfTi2Zs=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+}
+.main1 h5{
+    color: white;
+}
+#btn1{
+    background-color: white;
+    border-radius: 50px;
+}
+#btn2{
+    background: transparent;
+    border-radius: 50px;
+}
+.about{
+    height: 100vh;
+}
+#services{
+    background-color: black;
+    color: aliceblue;
+}
+#portfolio{
+    height: 100vh;
+    background-color: black;
+    color: aqua;
+}
+.section-title{
+    text-align: center;
+}
+#btn3{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    font-weight: 500;
+    background-color: #ffa726;
+    cursor: pointer;
+    width: 305px;
+    border-radius: 42px;
+    height: 77px;
+}
+#client{
+    background-color: black;
+    color: aliceblue;
+}
+.card{
+    border: 0px;
+    background-color: black;
+}
+.card-body img{
+    width: 40px;
+    border-radius: 50px;
+}
+.leader{
+    padding-left: 169px;
+    text-align: center;
+    background-color: black;
+}
+.leader img{
+    width: 196px;
+    height: 250px;
+    border-radius: 10px;
+
+}
